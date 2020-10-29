@@ -1,0 +1,11 @@
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\Artem\Desktop\4 курс\Сетевые технологии\LB1_Kraevskiy\Client\Client\obj\Debug\netcoreapp2.0\Client.pdb
